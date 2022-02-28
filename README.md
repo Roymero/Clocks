@@ -10,6 +10,5 @@ Press 4 to end program<br/>
 Reducing the amount of code on main and creating a solid class is what I did particularly well. <br/>
 I could enhance my code by using the chronos library and have the clock display on real time. <br/>
 The most challenging part of the code for me was the actual clock function. In order to get an idea of what to do I looked up some different tutorials online then I used pieces of each one to make the clock function. <br/>
-
 Learning how to make proper classes and OOP fundamentals are the most transferrable lessons I learned from this project. <br/>
 I used OOP fundamentals, kept my code clean, used my classes and main code properly. <br/>
